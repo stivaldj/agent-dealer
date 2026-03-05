@@ -1,0 +1,1278 @@
+[
+  {
+    "name": "data_inbox/População (2).xlsx",
+    "rows": 482,
+    "cols": [
+      {
+        "col": "Chassi",
+        "dtype": "object",
+        "null_pct": 0.0021,
+        "sample": [
+          "HBZN0865LMAF09194",
+          "HBZN0885PPAF09804",
+          "HBZN0885PRAF10549",
+          "HBZN0885TPAF09946",
+          "HBZN0885VRAF10508"
+        ]
+      },
+      {
+        "col": "Modelo",
+        "dtype": "object",
+        "null_pct": 0.0041,
+        "sample": [
+          "865B",
+          "885B",
+          "885B",
+          "885B",
+          "885B"
+        ]
+      },
+      {
+        "col": "Concessionário",
+        "dtype": "object",
+        "null_pct": 0.0041,
+        "sample": [
+          "IBL",
+          "IBL",
+          "IBL",
+          "IBL",
+          "IBL"
+        ]
+      },
+      {
+        "col": "Filial",
+        "dtype": "object",
+        "null_pct": 0.0041,
+        "sample": [
+          "Agua Boa",
+          "Varzea Grande",
+          "Sinop",
+          "Varzea Grande",
+          "Varzea Grande"
+        ]
+      },
+      {
+        "col": "Horímetro",
+        "dtype": "object",
+        "null_pct": 0.0228,
+        "sample": [
+          "3320",
+          "2044",
+          "2994",
+          "1556",
+          "496.03333432539995"
+        ]
+      },
+      {
+        "col": "Última comunicação",
+        "dtype": "object",
+        "null_pct": 0.0062,
+        "sample": [
+          "2024-06-16 20:51:49",
+          "2026-03-04 11:27:26",
+          "2026-03-04 13:48:46",
+          "2026-03-04 20:29:05",
+          "2026-03-04 18:20:24"
+        ]
+      },
+      {
+        "col": "Latitude",
+        "dtype": "object",
+        "null_pct": 0.0041,
+        "sample": [
+          "-10.00101089477539",
+          "-7.987260818481445",
+          "-12.885878562927246",
+          "-9.526630401611328",
+          "-13.114362716674805"
+        ]
+      },
+      {
+        "col": "Longitude",
+        "dtype": "object",
+        "null_pct": 0.0041,
+        "sample": [
+          "-51.11832046508789",
+          "-34.93503952026367",
+          "-56.040130615234375",
+          "-35.800926208496094",
+          "-55.80303955078125"
+        ]
+      },
+      {
+        "col": "Maps link",
+        "dtype": "object",
+        "null_pct": 0.0041,
+        "sample": [
+          "https://maps.google.com/?q=-10.0010109,-51.1183205",
+          "https://maps.google.com/?q=-7.9872608,-34.9350395",
+          "https://maps.google.com/?q=-12.8858786,-56.0401306",
+          "https://maps.google.com/?q=-9.5266304,-35.8009262",
+          "https://maps.google.com/?q=-13.1143627,-55.8030396"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "data_inbox/Insights Abertos.xlsx",
+    "rows": 14,
+    "cols": [
+      {
+        "col": "Chassi",
+        "dtype": "object",
+        "null_pct": 0.0714,
+        "sample": [
+          "HBZN865BJPAF31572",
+          "HBZN865BJPAF31572",
+          "HBZN865BJPAF31572",
+          "HBZN580NJRAH34100",
+          "HBZN580NESAH38185"
+        ]
+      },
+      {
+        "col": "Description PT-BR",
+        "dtype": "object",
+        "null_pct": 0.1429,
+        "sample": [
+          "Fleet Connect Insights - Verifique as peças de desgaste da lâmina",
+          "Connect Insights - Reparo de válvula rotativa de barra de tração",
+          "Connect Insight - Cruzetas de eixo cardan",
+          "Fleet Connect Insights - Inspeção dos dentes da caçamba",
+          "Fleet Connect Insights - Inspeção dos dentes da caçamba"
+        ]
+      },
+      {
+        "col": "Horímetro atual",
+        "dtype": "object",
+        "null_pct": 0.1429,
+        "sample": [
+          "4001",
+          "4001",
+          "4001",
+          "2004.1000000000001",
+          "506.1"
+        ]
+      },
+      {
+        "col": "Horímetro do alerta",
+        "dtype": "object",
+        "null_pct": 0.1429,
+        "sample": [
+          "4000",
+          "4000",
+          "4000",
+          "2000",
+          "500"
+        ]
+      },
+      {
+        "col": "Abertura",
+        "dtype": "object",
+        "null_pct": 0.1429,
+        "sample": [
+          "2026-03-05 02:11:29",
+          "2026-03-04 22:07:58",
+          "2026-03-04 22:07:48",
+          "2026-03-04 20:42:20",
+          "2026-03-02 20:16:49"
+        ]
+      },
+      {
+        "col": "Prioridade",
+        "dtype": "object",
+        "null_pct": 0.1429,
+        "sample": [
+          "Warning",
+          "Warning",
+          "Warning",
+          "Warning",
+          "Warning"
+        ]
+      },
+      {
+        "col": "Concessionário",
+        "dtype": "object",
+        "null_pct": 0.1429,
+        "sample": [
+          "IBL",
+          "IBL",
+          "IBL",
+          "IBL",
+          "IBL"
+        ]
+      },
+      {
+        "col": "Filial",
+        "dtype": "object",
+        "null_pct": 0.1429,
+        "sample": [
+          "Varzea Grande",
+          "Varzea Grande",
+          "Varzea Grande",
+          "Varzea Grande",
+          "Rio Branco"
+        ]
+      },
+      {
+        "col": "Cliente",
+        "dtype": "object",
+        "null_pct": 0.2857,
+        "sample": [
+          "Tuka Rental",
+          "Tuka Rental",
+          "Tuka Rental",
+          "H. F. ALUGUEL DE MÁQUINAS",
+          "E M DE MATOS LTDA"
+        ]
+      },
+      {
+        "col": "Filial.1",
+        "dtype": "object",
+        "null_pct": 0.1429,
+        "sample": [
+          "Varzea Grande",
+          "Varzea Grande",
+          "Varzea Grande",
+          "Varzea Grande",
+          "Rio Branco"
+        ]
+      },
+      {
+        "col": "Maps link",
+        "dtype": "object",
+        "null_pct": 0.1429,
+        "sample": [
+          "https://maps.google.com/?q=-19.9446182,-52.1651688",
+          "https://maps.google.com/?q=-19.9446182,-52.1651688",
+          "https://maps.google.com/?q=-19.9446182,-52.1651688",
+          "https://maps.google.com/?q=-16.4894466,-54.6171265",
+          "https://maps.google.com/?q=-9.9855108,-67.8449173"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "data_inbox/Historico maquinas.xlsx",
+    "rows": 1449,
+    "cols": [
+      {
+        "col": "NEG.",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "3",
+          "17",
+          "22",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "col": "EMP.",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "2",
+          "1",
+          "4",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "col": "VENDEDOR",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "LUIZ EDERSON FISCHER",
+          "VALDEMAR VALDEZ DE ALENCAR",
+          "PEDRO TEIXEIRA DE CASTRO FILHO",
+          "PEDRO TEIXEIRA DE CASTRO FILHO",
+          "PEDRO TEIXEIRA DE CASTRO FILHO"
+        ]
+      },
+      {
+        "col": "MODELO",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "PA CARREGADEIRA W20F",
+          "RETROESCAVADEIRA 580N 4X4 CABINE",
+          "RETROESCAVADEIRA 580N 4X4 CABINE",
+          "PA CARREGADEIRA W20F",
+          "PA CARREGADEIRA W20F"
+        ]
+      },
+      {
+        "col": "PLA/CHA",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "KAE10813",
+          "KAH21268",
+          "KAH21446",
+          "KAE10701",
+          "KAE10626"
+        ]
+      },
+      {
+        "col": "COMPRA",
+        "dtype": "object",
+        "null_pct": 0.0083,
+        "sample": [
+          "2019-12-18 00:00:00",
+          "2019-12-09 00:00:00",
+          "2019-12-20 00:00:00",
+          "2019-12-26 00:00:00",
+          "2019-12-26 00:00:00"
+        ]
+      },
+      {
+        "col": "VENDA",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "2019-12-18 00:00:00",
+          "2019-12-19 00:00:00",
+          "2019-12-20 00:00:00",
+          "2019-12-27 00:00:00",
+          "2019-12-27 00:00:00"
+        ]
+      },
+      {
+        "col": "COR",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "LARANJA",
+          "LARANJA",
+          "LARANJA",
+          "LARANJA",
+          "LARANJA"
+        ]
+      },
+      {
+        "col": "TIPO",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "P",
+          "P",
+          "P",
+          "P",
+          "P"
+        ]
+      },
+      {
+        "col": "FAB/MOD",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "19/19",
+          "19/19",
+          "19/19",
+          "19/19",
+          "19/19"
+        ]
+      },
+      {
+        "col": "CLIENTE",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "16568-ARAGUAIA S.A. - Sorriso",
+          "10044-ROSSI ESCAVACOES LTDA - Nova Andradina",
+          "16592-AMAZON NORTE LTDA - Feijó",
+          "6850-RONSY COMERCIAL DE FERRAGENS LTDA - EPITACIOLANDIA",
+          "6850-RONSY COMERCIAL DE FERRAGENS LTDA - EPITACIOLANDIA"
+        ]
+      },
+      {
+        "col": "CLIENTE.1",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "16568-ARAGUAIA S.A. - Sorriso",
+          "10044-ROSSI ESCAVACOES LTDA - Nova Andradina",
+          "16592-AMAZON NORTE LTDA - Feijó",
+          "6850-RONSY COMERCIAL DE FERRAGENS LTDA - EPITACIOLANDIA",
+          "6850-RONSY COMERCIAL DE FERRAGENS LTDA - EPITACIOLANDIA"
+        ]
+      },
+      {
+        "col": "TELEFONE",
+        "dtype": "object",
+        "null_pct": 0.1712,
+        "sample": [
+          "(62) 99999-5069",
+          "(67) 99802-8983",
+          "(68) 3546-5010",
+          "(68) 3546-5010",
+          "(67) 99696-4767"
+        ]
+      },
+      {
+        "col": "DAT. NEG.",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "18/12/2019 - 15:21",
+          "19/12/2019 - 17:00",
+          "20/12/2019 - 14:49",
+          "27/12/2019 - 13:05",
+          "27/12/2019 - 13:29"
+        ]
+      },
+      {
+        "col": "NF",
+        "dtype": "object",
+        "null_pct": 0.0138,
+        "sample": [
+          "77",
+          "39",
+          "9",
+          "15",
+          "14"
+        ]
+      },
+      {
+        "col": "DATA NF",
+        "dtype": "object",
+        "null_pct": 0.0138,
+        "sample": [
+          "2019-12-18 00:00:00",
+          "2019-12-19 00:00:00",
+          "2019-12-20 00:00:00",
+          "2019-12-27 00:00:00",
+          "2019-12-27 00:00:00"
+        ]
+      },
+      {
+        "col": "VAL + COMPL.",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "348000",
+          "230000",
+          "250000",
+          "340000",
+          "340000"
+        ]
+      },
+      {
+        "col": "QUITADO",
+        "dtype": "object",
+        "null_pct": 0.0,
+        "sample": [
+          "Sim",
+          "Sim",
+          "Sim",
+          "Sim",
+          "Sim"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "data_inbox/pecas - vg(Planilha1).csv",
+    "error": "Error tokenizing data. C error: Expected 2 fields in line 3, saw 3\n"
+  },
+  {
+    "name": "data_inbox/Serviço próximo +ou - 100 horas (1).xlsx",
+    "rows": 142,
+    "cols": [
+      {
+        "col": "Chassi",
+        "dtype": "object",
+        "null_pct": 0.007,
+        "sample": [
+          "HBZN0885PRAF10549",
+          "HBZN0885TPAF09946",
+          "HBZN130CVRAA06163",
+          "HBZN2050APAC01592",
+          "HBZN220CHSAA06441"
+        ]
+      },
+      {
+        "col": "Estado atual de garantia",
+        "dtype": "object",
+        "null_pct": 0.0141,
+        "sample": [
+          "Expirado",
+          "Expirado",
+          "Expirado",
+          "Expirado",
+          "Ativo"
+        ]
+      },
+      {
+        "col": "Modelo",
+        "dtype": "object",
+        "null_pct": 0.0141,
+        "sample": [
+          "885B",
+          "885B",
+          "CX130C",
+          "2050M",
+          "CX220C SERIES 2"
+        ]
+      },
+      {
+        "col": "Filial",
+        "dtype": "object",
+        "null_pct": 0.1127,
+        "sample": [
+          "Sinop",
+          "Varzea Grande",
+          "Sinop",
+          "Boa Vista",
+          "Boa Vista"
+        ]
+      },
+      {
+        "col": "Estado",
+        "dtype": "object",
+        "null_pct": 0.0141,
+        "sample": [
+          "Mato Grosso",
+          "Alagoas",
+          "Mato Grosso",
+          "Pará",
+          "Roraima"
+        ]
+      },
+      {
+        "col": "Cliente",
+        "dtype": "object",
+        "null_pct": 0.1127,
+        "sample": [
+          "HILARIO RENATO PICCINI",
+          "VRental",
+          "LUCIANO BIANCHI",
+          "AURELIANO DO NASCIMENTO SILVA",
+          "RODRIGUES & OLIVEIRA COMERCIO E SERVICOS LTDA"
+        ]
+      },
+      {
+        "col": "Data estimada de serviço",
+        "dtype": "object",
+        "null_pct": 0.0141,
+        "sample": [
+          "2026-02-21 00:00:00",
+          "2026-03-08 00:00:00",
+          "2026-03-13 00:00:00",
+          "2026-03-05 00:00:00",
+          "2026-03-18 00:00:00"
+        ]
+      },
+      {
+        "col": "Utilização mensal",
+        "dtype": "object",
+        "null_pct": 0.0141,
+        "sample": [
+          "113.5",
+          "61",
+          "14.983333363299977",
+          "0",
+          "196.02500039205"
+        ]
+      },
+      {
+        "col": "Horímetro",
+        "dtype": "object",
+        "null_pct": 0.0141,
+        "sample": [
+          "2044",
+          "2994",
+          "496.03333432539995",
+          "2006.6000000000001",
+          "1163.666668994"
+        ]
+      },
+      {
+        "col": "Maps link",
+        "dtype": "object",
+        "null_pct": 0.0141,
+        "sample": [
+          "https://maps.google.com/?q=-12.8858786,-56.0401306",
+          "https://maps.google.com/?q=-9.5266304,-35.8009262",
+          "https://maps.google.com/?q=-9.8455801,-58.6593437",
+          "https://maps.google.com/?q=-9.4183636,-56.0535049",
+          "https://maps.google.com/?q=3.4442587,-59.9933090"
+        ]
+      },
+      {
+        "col": "Revisões",
+        "dtype": "object",
+        "null_pct": 0.0141,
+        "sample": [
+          "HBZN0885PRAF10549",
+          "HBZN0885TPAF09946",
+          "HBZN130CVRAA06163",
+          "HBZN2050APAC01592",
+          "HBZN220CHSAA06441"
+        ]
+      },
+      {
+        "col": "Customer Portal Activation Status_PT-BR",
+        "dtype": "object",
+        "null_pct": 0.0141,
+        "sample": [
+          "Ativado",
+          "Ativado",
+          "Pendente ativação concessionário",
+          "Ativado",
+          "Ativado"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "data_inbox/Alertas.xlsx",
+    "rows": 1378,
+    "cols": [
+      {
+        "col": "UniqueInstanceId",
+        "dtype": "object",
+        "null_pct": 0.0007,
+        "sample": [
+          "358641",
+          "428479",
+          "1460565",
+          "1518084",
+          "2196967"
+        ]
+      },
+      {
+        "col": "Chassi",
+        "dtype": "object",
+        "null_pct": 0.0015,
+        "sample": [
+          "HBZN2050APAC01592",
+          "HBZN2050APAC01592",
+          "HBZN2050TPAC01647",
+          "HBZN2050TPAC01647",
+          "HBZN2050TPAC01647"
+        ]
+      },
+      {
+        "col": "Modelo",
+        "dtype": "object",
+        "null_pct": 0.0015,
+        "sample": [
+          "2050M",
+          "2050M",
+          "2050M",
+          "2050M",
+          "2050M"
+        ]
+      },
+      {
+        "col": "Concessionário",
+        "dtype": "object",
+        "null_pct": 0.0015,
+        "sample": [
+          "IBL",
+          "IBL",
+          "IBL",
+          "IBL",
+          "IBL"
+        ]
+      },
+      {
+        "col": "Filial",
+        "dtype": "object",
+        "null_pct": 0.0015,
+        "sample": [
+          "Sinop",
+          "Sinop",
+          "Sinop",
+          "Sinop",
+          "Sinop"
+        ]
+      },
+      {
+        "col": "Descrição",
+        "dtype": "object",
+        "null_pct": 0.0116,
+        "sample": [
+          "DZ - SA - Envelhecimento de Biodiesel e Descarga de Baterias",
+          "DZ - SA - Envelhecimento de Biodiesel e Descarga de Baterias",
+          "DZ - SA - Envelhecimento de Biodiesel e Descarga de Baterias",
+          "DZ - SA - Envelhecimento de Biodiesel e Descarga de Baterias",
+          "DZ - SA - Envelhecimento de Biodiesel e Descarga de Baterias"
+        ]
+      },
+      {
+        "col": "Abertura",
+        "dtype": "object",
+        "null_pct": 0.0015,
+        "sample": [
+          "2023-09-25 14:03:55",
+          "2023-10-22 11:18:12",
+          "2025-05-11 05:08:11",
+          "2025-06-11 10:57:41",
+          "2025-12-13 10:52:49"
+        ]
+      },
+      {
+        "col": "Encerramento",
+        "dtype": "object",
+        "null_pct": 0.0377,
+        "sample": [
+          "2023-10-21 13:47:56",
+          "2025-07-17 16:37:57",
+          "2025-06-10 10:20:12",
+          "2025-07-11 10:43:25",
+          "2026-01-20 20:15:59"
+        ]
+      },
+      {
+        "col": "Estado do alerta",
+        "dtype": "object",
+        "null_pct": 0.0015,
+        "sample": [
+          "Fechado",
+          "Fechado",
+          "Fechado",
+          "Fechado",
+          "Fechado"
+        ]
+      },
+      {
+        "col": "Alerta mestre",
+        "dtype": "object",
+        "null_pct": 0.0116,
+        "sample": [
+          "Biodiesel",
+          "Biodiesel",
+          "Biodiesel",
+          "Biodiesel",
+          "Biodiesel"
+        ]
+      },
+      {
+        "col": "EULA Status",
+        "dtype": "object",
+        "null_pct": 0.0015,
+        "sample": [
+          "Pendente",
+          "Pendente",
+          "Pendente",
+          "Pendente",
+          "Pendente"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "data_inbox/data (4).xlsx",
+    "rows": 475,
+    "cols": [
+      {
+        "col": "Chassi",
+        "dtype": "object",
+        "null_pct": 0.0021,
+        "sample": [
+          "HBZN2050APAC01592",
+          "HBZN2050TPAC01647",
+          "NKJ575SVCRKH43765",
+          "NKJ575SVERKH42971",
+          "NKJ575SVERKH43313"
+        ]
+      },
+      {
+        "col": "Prioridade da Máquina",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "Sem ação",
+          "Sem ação",
+          "Sem ação",
+          "Sem ação",
+          "Sem ação"
+        ]
+      },
+      {
+        "col": "Marca",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "CASE CONSTRUCTION",
+          "CASE CONSTRUCTION",
+          "CASE CONSTRUCTION",
+          "CASE CONSTRUCTION",
+          "CASE CONSTRUCTION"
+        ]
+      },
+      {
+        "col": "Horímetro",
+        "dtype": "object",
+        "null_pct": 0.0168,
+        "sample": [
+          "2006.6000000000001",
+          "1605.1000000000001",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "Modelo",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "2050M",
+          "2050M",
+          "575SV",
+          "575SV",
+          "575SV"
+        ]
+      },
+      {
+        "col": "GDD",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "951-508347A",
+          "951-508347A",
+          "951-193992A",
+          "951-193691A",
+          "951-193691A"
+        ]
+      },
+      {
+        "col": "Grupo",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "IBL",
+          "IBL",
+          "IBL",
+          "IBL",
+          "IBL"
+        ]
+      },
+      {
+        "col": "Filial",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "Sinop",
+          "Sinop",
+          "Campo Grande",
+          "Varzea Grande",
+          "Varzea Grande"
+        ]
+      },
+      {
+        "col": "Cliente",
+        "dtype": "object",
+        "null_pct": 0.1768,
+        "sample": [
+          "LUCIANO BIANCHI",
+          "GLOBAL PECUARIA LTDA",
+          "Ibl Maquinas",
+          "H F ALUGUEL DE MAQUINAS",
+          "Ibl Maquinas"
+        ]
+      },
+      {
+        "col": "Início de Garantia",
+        "dtype": "object",
+        "null_pct": 0.2021,
+        "sample": [
+          "2023-05-26 00:00:00",
+          "2025-04-16 00:00:00",
+          "2025-09-03 00:00:00",
+          "2025-03-28 00:00:00",
+          "2026-01-09 00:00:00"
+        ]
+      },
+      {
+        "col": "Ativação do Portal do Cliente",
+        "dtype": "object",
+        "null_pct": 0.2695,
+        "sample": [
+          "2023-07-25 00:00:00",
+          "2025-07-03 00:00:00",
+          "2025-10-22 00:00:00",
+          "2025-10-22 00:00:00",
+          "2022-08-01 00:00:00"
+        ]
+      },
+      {
+        "col": "País - Ult. Posição",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "Brazil",
+          "Brazil",
+          "Brazil",
+          "Brazil",
+          "Brazil"
+        ]
+      },
+      {
+        "col": "Techtype",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "535212052",
+          "535212052",
+          "675076211",
+          "675076211",
+          "675076211"
+        ]
+      },
+      {
+        "col": "M-1 Utilização",
+        "dtype": "object",
+        "null_pct": 0.1958,
+        "sample": [
+          "28.499999999999847",
+          "3.9444444444446467",
+          "67.34482758620823",
+          "21.51724137931006",
+          "49.388888888888175"
+        ]
+      },
+      {
+        "col": "M-1 Consumo",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "0",
+          "28.64911485048631",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "Estado - Últ. Posição",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "Pará",
+          "Mato Grosso",
+          "Mato Grosso do Sul",
+          "Mato Grosso",
+          "Mato Grosso"
+        ]
+      },
+      {
+        "col": "lat",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "-9.418363571166992",
+          "-10.881190299987793",
+          "-19.96142578125",
+          "-16.450395584106445",
+          "-16.45032501220703"
+        ]
+      },
+      {
+        "col": "lon",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "-56.053504943847656",
+          "-57.58185958862305",
+          "-54.83309555053711",
+          "-54.64775466918945",
+          "-54.647735595703125"
+        ]
+      },
+      {
+        "col": "Última Comunicação",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "2026-02-11 20:43:19.220000",
+          "2026-03-04 18:54:25",
+          "2026-03-04 18:17:06",
+          "2026-03-04 16:58:25",
+          "2026-03-04 21:53:15"
+        ]
+      },
+      {
+        "col": "Maps link",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "https://maps.google.com/?q=-9.4183636,-56.0535049",
+          "https://maps.google.com/?q=-10.8811903,-57.5818596",
+          "https://maps.google.com/?q=-19.9614258,-54.8330956",
+          "https://maps.google.com/?q=-16.4503956,-54.6477547",
+          "https://maps.google.com/?q=-16.4503250,-54.6477356"
+        ]
+      },
+      {
+        "col": "Modem",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "CM1X",
+          "CM1X",
+          "CM1X",
+          "CM1X",
+          "CM1X"
+        ]
+      },
+      {
+        "col": "Número de série do modem",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "1598-3C0003C1",
+          "1598-3C000955",
+          "1602-38000597",
+          "1602-380005C4",
+          "1602-38000758"
+        ]
+      },
+      {
+        "col": "Estado do Portal do Cliente",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "Ativado",
+          "Ativado",
+          "Pendente ativação concessionário",
+          "Ativado",
+          "Pendente ativação concessionário"
+        ]
+      },
+      {
+        "col": "Produto",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "TRATOR DE ESTEIRA",
+          "TRATOR DE ESTEIRA",
+          "RETROESCAVADEIRA",
+          "RETROESCAVADEIRA",
+          "RETROESCAVADEIRA"
+        ]
+      },
+      {
+        "col": "Data de Produção",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "2023-04-25 00:00:00",
+          "2023-07-13 00:00:00",
+          "2024-11-09 00:00:00",
+          "2024-09-24 00:00:00",
+          "2024-11-09 00:00:00"
+        ]
+      },
+      {
+        "col": "Data de Faturamento",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "2023-04-27 00:00:00",
+          "2025-03-31 00:00:00",
+          "2025-04-28 00:00:00",
+          "2025-01-31 00:00:00",
+          "2025-03-14 00:00:00"
+        ]
+      },
+      {
+        "col": "M-1 % Ociosidade Longa",
+        "dtype": "object",
+        "null_pct": 0.2695,
+        "sample": [
+          "0.014209741811204199",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "M-1 % Ociosidade",
+        "dtype": "object",
+        "null_pct": 0.2695,
+        "sample": [
+          "0.07184944481956014",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "M-1 % Transporte",
+        "dtype": "object",
+        "null_pct": 0.2695,
+        "sample": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "M-1 % Trabalho",
+        "dtype": "object",
+        "null_pct": 0.2695,
+        "sample": [
+          "0.570452540026019",
+          "1",
+          "1",
+          "0",
+          "1"
+        ]
+      },
+      {
+        "col": "M-1 % Alta Carga de Trabalho",
+        "dtype": "object",
+        "null_pct": 0.2695,
+        "sample": [
+          "0.3434882733432165",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "M-1 % Total Ocioso",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "0",
+          "0.08605918663076434",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "M-1 % Total Produtivo",
+        "dtype": "object",
+        "null_pct": 0.2695,
+        "sample": [
+          "0.9139408133692356",
+          "1",
+          "1",
+          "0",
+          "1"
+        ]
+      },
+      {
+        "col": "Horas M-1 OCIOSIDADE LONGA",
+        "dtype": "object",
+        "null_pct": 0.2674,
+        "sample": [
+          "0.21794318978378366",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "Horas M-1 OCIOSIDADE",
+        "dtype": "object",
+        "null_pct": 0.2674,
+        "sample": [
+          "3.3383570847325936",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "Horas M-1 TRANSPORTE",
+        "dtype": "object",
+        "null_pct": 0.2674,
+        "sample": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "Horas M-1 TRABALHO",
+        "dtype": "object",
+        "null_pct": 0.2674,
+        "sample": [
+          "17.38233428765451",
+          "3.7000000000000455",
+          "0.6999999999998181",
+          "0",
+          "44.95000000000027"
+        ]
+      },
+      {
+        "col": "Horas M-1 ALTA CARGA DE TRABALHO",
+        "dtype": "object",
+        "null_pct": 0.2695,
+        "sample": [
+          "8.844823038587826",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "Horas M-1 Total Ociosidade",
+        "dtype": "object",
+        "null_pct": 0.2674,
+        "sample": [
+          "2.2160240557421815",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "Horas M-1 Total Produtivo",
+        "dtype": "object",
+        "null_pct": 0.2695,
+        "sample": [
+          "23.53397594425782",
+          "3.7000000000000455",
+          "0.6999999999998181",
+          "0",
+          "44.95000000000027"
+        ]
+      },
+      {
+        "col": "Total Consumido (L) M-1",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "0",
+          "734.84979591497",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "col": "Serial",
+        "dtype": "object",
+        "null_pct": 0.0042,
+        "sample": [
+          "1592",
+          "1647",
+          "43765",
+          "42971",
+          "43313"
+        ]
+      }
+    ]
+  }
+]

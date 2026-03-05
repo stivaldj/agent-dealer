@@ -1,0 +1,54 @@
+{
+  "result": [
+    {
+      "NAME": "Em Desenvolvimento",
+      "SORT": 10,
+      "STATUS_ID": "C18:NEW"
+    },
+    {
+      "NAME": "Criar documentos",
+      "SORT": 20,
+      "STATUS_ID": "C18:PREPARATION"
+    },
+    {
+      "NAME": "Fatura",
+      "SORT": 30,
+      "STATUS_ID": "C18:PREPAYMENT_INVOIC"
+    },
+    {
+      "NAME": "Em andamento",
+      "SORT": 40,
+      "STATUS_ID": "C18:EXECUTING"
+    },
+    {
+      "NAME": "Fatura final",
+      "SORT": 50,
+      "STATUS_ID": "C18:FINAL_INVOICE"
+    },
+    {
+      "NAME": "Negócio ganho",
+      "SORT": 60,
+      "STATUS_ID": "C18:WON"
+    },
+    {
+      "NAME": "Negócio perdido",
+      "SORT": 70,
+      "STATUS_ID": "C18:LOSE"
+    },
+    {
+      "NAME": "Analisar falha",
+      "SORT": 80,
+      "STATUS_ID": "C18:APOLOGY"
+    }
+  ],
+  "time": {
+    "start": 1772731588,
+    "finish": 1772731588.408061,
+    "duration": 0.40806102752685547,
+    "processing": 0,
+    "date_start": "2026-03-05T20:26:28+03:00",
+    "date_finish": "2026-03-05T20:26:28+03:00",
+    "operating_reset_at": 1772732188,
+    "operating": 0
+  }
+}

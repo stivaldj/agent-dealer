@@ -1,0 +1,69 @@
+{
+  "result": [
+    {
+      "NAME": "Oportunidade de Serviço",
+      "SORT": 10,
+      "STATUS_ID": "C4:UC_L2OMKR"
+    },
+    {
+      "NAME": "Contato Iniciado",
+      "SORT": 20,
+      "STATUS_ID": "C4:NEW"
+    },
+    {
+      "NAME": "Orçamento Enviado",
+      "SORT": 30,
+      "STATUS_ID": "C4:PREPARATION"
+    },
+    {
+      "NAME": "Análise de Crédito",
+      "SORT": 40,
+      "STATUS_ID": "C4:EXECUTING"
+    },
+    {
+      "NAME": "Faturamento",
+      "SORT": 50,
+      "STATUS_ID": "C4:PREPAYMENT_INVOICE"
+    },
+    {
+      "NAME": "Nota Fiscal",
+      "SORT": 60,
+      "STATUS_ID": "C4:FINAL_INVOICE"
+    },
+    {
+      "NAME": "Separação de Peças",
+      "SORT": 70,
+      "STATUS_ID": "C4:1"
+    },
+    {
+      "NAME": "Agendamento de Serviços",
+      "SORT": 80,
+      "STATUS_ID": "C4:2"
+    },
+    {
+      "NAME": "Negócios Ganhos",
+      "SORT": 90,
+      "STATUS_ID": "C4:WON"
+    },
+    {
+      "NAME": "Negócios Perdidos",
+      "SORT": 100,
+      "STATUS_ID": "C4:LOSE"
+    },
+    {
+      "NAME": "Analisar falha",
+      "SORT": 110,
+      "STATUS_ID": "C4:APOLOGY"
+    }
+  ],
+  "time": {
+    "start": 1772731580,
+    "finish": 1772731580.046824,
+    "duration": 0.046823978424072266,
+    "processing": 0,
+    "date_start": "2026-03-05T20:26:20+03:00",
+    "date_finish": "2026-03-05T20:26:20+03:00",
+    "operating_reset_at": 1772732180,
+    "operating": 0
+  }
+}
