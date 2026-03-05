@@ -9,3 +9,5 @@ __pycache__/
 .DS_Store
 data/*.db
 *.egg-info/
+data_inbox/*
+!data_inbox/.gitkeep
